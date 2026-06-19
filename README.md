@@ -78,8 +78,4 @@ watchly/
 - **Course:** Information & Communication Technology (ICT)
 - **Project:** Watchly — Watch Ordering Website
 
----
 
-## 📄 License
-
-This project was created for academic purposes.
