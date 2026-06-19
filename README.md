@@ -1,12 +1,11 @@
 # 🕐 Watchly
 
-A modern e-commerce website for browsing and ordering premium watches — built as part of my ICT course project.
-
+Watchly is a responsive watch e-commerce website that allows users to explore a curated collection of watches, view product details, and simulate the ordering process. Built using HTML, CSS, and JavaScript.
 ---
 
 ## 📌 About the Project
 
-**Watchly** is a watch ordering website that allows users to explore a curated collection of watches, view product details, and place orders online. The project was designed and developed as part of our **ICT (Information & Communication Technology)** course to apply real-world web development concepts.
+**Watchly** is a watch ordering website that allows users to explore a curated collection of watches, view product details, and place orders online. A frontend e-commerce watch store built using HTML, CSS, and JavaScript.
 
 ---
 
@@ -14,7 +13,7 @@ A modern e-commerce website for browsing and ordering premium watches — built 
 
 - 🏠 **Home Page** — Attractive landing page showcasing featured watches
 - 🛍️ **Product Catalog** — Browse a collection of watches with images and details
-- 🛒 **Order System** — Users can select and order their desired watch
+- 🛒 **Order System (UI Simulation)** — Users can select and order their desired watch
 - 📄 **Product Detail Pages** — View specifications and pricing for each watch
 - 📱 **Responsive Design** — Optimized for both desktop and mobile screens
 
@@ -71,11 +70,5 @@ watchly/
 
 3. **Run it**
    Simply open `index.html` in your browser — no installations required!
-
-
-## 📚 Course Info
-
-- **Course:** Information & Communication Technology (ICT)
-- **Project:** Watchly — Watch Ordering Website
 
 
