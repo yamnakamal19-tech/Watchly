@@ -61,7 +61,7 @@ watchly/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/watchly.git
+   git clone https://github.com/yamnakamal19-tech/watchly.git
    ```
 
 2. **Open the project**
