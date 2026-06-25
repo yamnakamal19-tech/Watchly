@@ -13,25 +13,25 @@ Watchly is a frontend e-commerce watch store built using **HTML**, **CSS**, and 
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Watchly Homepage](Watchly homepage.png)
+![Watchly Homepage](Watchly_homepage.png)
 > Hero section featuring the B720 collection with navigation, social links, price, and CTA buttons.
 
 ---
 
 ### 🆕 New Arrivals
-![New Arrivals](New arrivals.png)
+![New Arrivals](New_arrivals.png)
 > Four-card grid showcasing the latest watch additions with name and price.
 
 ---
 
 ### 🛒 Add to Cart Interaction
-![Add to Cart](add to cart option.png)
+![Add to Cart](add_to_cart_option.png)
 > Hover state on a product card reveals the "Add to Cart" button with a warm highlight effect.
 
 ---
 
 ### ⭐ Featured Products
-![Featured Products](Featured Products.png)
+![Featured Products](Featured_Products.png)
 > Featured section with a 3-column grid and an "Our Story" promo block below.
 
 ---
@@ -43,7 +43,7 @@ Watchly is a frontend e-commerce watch store built using **HTML**, **CSS**, and 
 ---
 
 ### 💬 Customer Reviews
-![Customer Reviews](Customer Reviews.png)
+![Customer Reviews](Customer_Reviews.png)
 > Testimonial slider with customer quote, date, avatar, and a decorative watch photo with a peach accent block.
 
 ---
